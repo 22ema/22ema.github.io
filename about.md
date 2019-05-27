@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
-
-You can find the source code for this theme at: <data data-icon="ei-sc-github"></data>  [jekyll-simple](https://github.com/wild-flame/jekyll-simple)
-
-You can find the source code for Jekyll at <data data-icon="ei-sc-github"></data>  [jekyll](https://github.com/jekyll/jekyll)
+ 여기는 22ema의 알고리즘 과 ai 관련 기술 연구에 대한 사이트 입니다.
+ 
+ This is a site for 22ema algorithms and ai related technical research.
+ 
+ Q&A는 이쪽으로 주시기 보내세요 
+ yunsung9503@gmail.com
+ 
