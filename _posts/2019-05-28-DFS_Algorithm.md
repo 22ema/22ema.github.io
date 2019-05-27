@@ -19,4 +19,4 @@ description: DFS_Algorithm 공부
 ## DFS Algorithm 설명
  
 먼저 그림을 보면서 설명을 드리겠습니다.
-![]({{http://22ema.github.io}}/assets/img/image.jpg)
+![]({{http://22ema.github.io}}/assets/img/graph_dfs.jpg)
