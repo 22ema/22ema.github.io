@@ -28,8 +28,10 @@ description: BFS_Algorithm 공부
  
  BFS는 DFS와는 다르게 방법이 queue를 쓰는 것 밖에 없습니다. 그래서 그냥 queue를 이용해서 bfs를 구현하는 것과 그것을 활용해 최단거리를 구하는 코드 두개를 소개 하겠습니다.
  - 1 bfs 구현
-         /*한윤성 http://22ema.github.io
-        queue 에대한 공부*/
+ 
+
+         	/*한윤성 http://22ema.github.io
+        	queue 에대한 공부*/
 
         #include <iostream>
         #include <queue>
@@ -74,8 +76,10 @@ description: BFS_Algorithm 공부
 
  queue를 이용하여 bfs알고리즘을 구현하였다
  - 2 bfs를 이용해서 최단거리 찾기.
-        /*bfs 최단거리를 구하는 문제
-        미로찾기 문제임 백준 2178번문제
+
+
+     		/*bfs 최단거리를 구하는 문제
+        	미로찾기 문제임 백준 2178번문제
         22ema.github.io*/
 
         #include<iostream>
