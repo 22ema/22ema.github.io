@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  BFS_Algorithm
-category: Algorithm1
+category: Algorithm
 description: BFS_Algorithm 공부
 ---
 
