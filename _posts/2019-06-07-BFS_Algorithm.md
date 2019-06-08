@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  BFS_Algorithm
+title:  BFS Algorithm
+sitemap: 
 category: Algorithm
-description: BFS_Algorithm 공부
+description: BFS Algorithm 공부
 ---
 
 - BFS Algorithm 정의

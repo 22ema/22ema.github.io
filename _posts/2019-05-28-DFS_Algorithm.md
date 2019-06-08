@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  DFS_Algorithm
+title:  DFS Algorithm
+sitemap: 
 category: Algorithm
-description: DFS_Algorithm 공부
+description: DFS Algorithm 공부
 ---
 - DFS Algorithm 정의
 
