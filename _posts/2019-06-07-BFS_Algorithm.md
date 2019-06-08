@@ -28,7 +28,7 @@ description: BFS_Algorithm 공부
  6.5가 다음에 선정됩니다. 하지만 5도 역시 이미 2를 방문 했기 때문에 끝이납니다. 그뒤의 숫자인 4도 이미 방문했기때문에 넘어가고 
  7.queue가 비어지게 되며 끝나게 됩니다. 
 
- ##BFS Algorithm 코드
+## BFS Algorithm 코드
  
  BFS는 DFS와는 다르게 방법이 queue를 쓰는 것 밖에 없습니다. 그래서 그냥 queue를 이용해서 bfs를 구현하는 것과 그것을 활용해 최단거리를 구하는 코드 두개를 소개 하겠습니다.
  - 1 bfs 구현
