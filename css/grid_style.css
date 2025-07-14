@@ -4,10 +4,10 @@ main {
 }
 .box-container {
   width: 1080px;
+  height: auto;
   margin: auto;
   display: grid;
   grid-template-columns: 740px 330px; /* 각 행(세로줄)의 길이 */
-  grid-template-rows: 120px 310px 890px 130px; /* 각 열(가로줄)의 길이 */
   gap: 10px; /* 자식요소간의 간격 */
 }
 .box-item {
