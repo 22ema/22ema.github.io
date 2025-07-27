@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 일레븐 아빠의 딥러닝 연구 블로그
+title: 딥러닝 연구 기록 블로그
 email: yunsung9503@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  딥러닝에 관한 연구 기록을 하는 블로그 입니다.
 baseurl: "https://22ema.github.io" # the subpath of your site, e.g. /blog
 url: "https://22ema.github.io"
 github_username:  22ema
