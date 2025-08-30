@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="[posting] 2025-08-31 journal-1 업로드">
+      <change afterPath="$PROJECT_DIR$/_includes/sidebar.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zeB1cWR3TT8S7t4HZSkGjxANp6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/han_yunsung/Code/22ema.github.io",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="" />
+      <created>1752081444680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752081444680</updated>
+      <workItem from="1752081445727" duration="991000" />
+      <workItem from="1752503878008" duration="2168000" />
+      <workItem from="1753195043252" duration="2856000" />
+      <workItem from="1753611607394" duration="1743000" />
+      <workItem from="1756307540038" duration="5769000" />
+      <workItem from="1756560109562" duration="6452000" />
+      <workItem from="1756566796521" duration="6634000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test commit">
+      <option name="closed" value="true" />
+      <created>1752081685516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752081685516</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[feat] css test">
+      <option name="closed" value="true" />
+      <created>1752504766366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752504766366</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[feat] css test">
+      <option name="closed" value="true" />
+      <created>1752504867589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752504867589</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[feat] css test">
+      <option name="closed" value="true" />
+      <created>1752505008592</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752505008592</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[feat] css test">
+      <option name="closed" value="true" />
+      <created>1752505253463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752505253463</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[feat] css test">
+      <option name="closed" value="true" />
+      <created>1752505452913</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752505452913</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[feat] minima theme 적용">
+      <option name="closed" value="true" />
+      <created>1753195208928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753195208928</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[feat] minima theme 적용">
+      <option name="closed" value="true" />
+      <created>1753197860880</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753197860880</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[feat] 프로필 및 footer 수정">
+      <option name="closed" value="true" />
+      <created>1756560824635</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1756560824635</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[feat] 카테고리 및 자기소개 추가">
+      <option name="closed" value="true" />
+      <created>1756561912278</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756561912278</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[feat] 이메일 중복 제거">
+      <option name="closed" value="true" />
+      <created>1756562002441</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1756562002441</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[fix] error fix">
+      <option name="closed" value="true" />
+      <created>1756562507903</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1756562507903</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[fix] error fix">
+      <option name="closed" value="true" />
+      <created>1756563174353</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1756563174353</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[fix] error fix">
+      <option name="closed" value="true" />
+      <created>1756564431486</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1756564431486</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[fix] error fix">
+      <option name="closed" value="true" />
+      <created>1756564532020</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1756564532020</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[fix] error fix">
+      <option name="closed" value="true" />
+      <created>1756565451233</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1756565451233</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[fix] error fix">
+      <option name="closed" value="true" />
+      <created>1756565481495</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1756565481495</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[fix] _config.yml and .gitignore">
+      <option name="closed" value="true" />
+      <created>1756566813407</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1756566813407</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[fix] 튜토리얼 포스트들 삭제">
+      <option name="closed" value="true" />
+      <created>1756567186496</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1756567186496</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[posting] 첫 포스팅 업로드">
+      <option name="closed" value="true" />
+      <created>1756567235197</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1756567235197</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[posting] 첫 포스팅 업로드">
+      <option name="closed" value="true" />
+      <created>1756567554257</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1756567554257</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[posting] 첫 포스팅 업로드">
+      <option name="closed" value="true" />
+      <created>1756567655779</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1756567655779</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[posting] 첫 포스팅 업로드">
+      <option name="closed" value="true" />
+      <created>1756567856606</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1756567856606</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[feat] 구글 검색 등록을 위해 파일 업로드">
+      <option name="closed" value="true" />
+      <created>1756568094381</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1756568094381</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[feat] sitemap.xml 및 robots.txt 업로드">
+      <option name="closed" value="true" />
+      <created>1756568448691</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1756568448691</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[feat] sitemap.xml 및 robots.txt 업로드">
+      <option name="closed" value="true" />
+      <created>1756568714898</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1756568714898</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[fix] _config.yml 수정&#10; - _posts 경로 추가">
+      <option name="closed" value="true" />
+      <created>1756568958691</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1756568958691</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[fix] _config.yml 수정&#10; - _posts 경로 추가">
+      <option name="closed" value="true" />
+      <created>1756569478512</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1756569478512</updated>
+    </task>
+    <task id="LOCAL-00029" summary="[fix] _config.yml 수정&#10; - _posts 경로 추가">
+      <option name="closed" value="true" />
+      <created>1756569898632</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1756569898632</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[fix] 포스팅 글 카테고리 제거">
+      <option name="closed" value="true" />
+      <created>1756570109301</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1756570109301</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[fix] 포스팅 글 카테고리 추가">
+      <option name="closed" value="true" />
+      <created>1756570274365</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1756570274365</updated>
+    </task>
+    <task id="LOCAL-00032" summary="[fix] 포스팅 안되는 문제 해결">
+      <option name="closed" value="true" />
+      <created>1756570401499</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1756570401499</updated>
+    </task>
+    <task id="LOCAL-00033" summary="[fix] tags 삭제">
+      <option name="closed" value="true" />
+      <created>1756570537336</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1756570537336</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[posting] 2025-08-31 journal-1 업로드">
+      <option name="closed" value="true" />
+      <created>1756571434211</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1756571434211</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test commit" />
+    <MESSAGE value="[feat] css test" />
+    <MESSAGE value="[feat] minima theme 적용" />
+    <MESSAGE value="[feat] 프로필 및 footer 수정" />
+    <MESSAGE value="[feat] 카테고리 및 자기소개 추가" />
+    <MESSAGE value="[feat] 이메일 중복 제거" />
+    <MESSAGE value="[fix] error fix" />
+    <MESSAGE value="[fix] _config.yml and .gitignore" />
+    <MESSAGE value="[fix] 튜토리얼 포스트들 삭제" />
+    <MESSAGE value="[posting] 첫 포스팅 업로드" />
+    <MESSAGE value="[feat] 구글 검색 등록을 위해 파일 업로드" />
+    <MESSAGE value="[feat] sitemap.xml 및 robots.txt 업로드" />
+    <MESSAGE value="[fix] _config.yml 수정&#10; - _posts 경로 추가" />
+    <MESSAGE value="[fix] 포스팅 글 카테고리 제거" />
+    <MESSAGE value="[fix] 포스팅 글 카테고리 추가" />
+    <MESSAGE value="[fix] 포스팅 안되는 문제 해결" />
+    <MESSAGE value="[fix] tags 삭제" />
+    <MESSAGE value="[posting] 2025-08-31 journal-1 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="[posting] 2025-08-31 journal-1 업로드" />
+  </component>
+</project>
