@@ -1,6 +1,5 @@
 ---
 title: "첫 포스팅"
-last_modified_at: 2025-08-31T00:00:00-05:00
 categories:
   - Blog
 tags:
