@@ -1,5 +1,5 @@
 ---
-title: "첫 포스팅"
+title: "First Posting"
 categories:
   - Blog
 tags:
