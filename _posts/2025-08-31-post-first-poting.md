@@ -1,5 +1,7 @@
 ---
 title: "First Posting"
+categories:
+  - Blog
 tags:
   - Post Formats
   - readability
