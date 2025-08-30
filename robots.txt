@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://22ema.github.io/sitemap.xml
