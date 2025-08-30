@@ -6,6 +6,7 @@ tags:
   - Post Formats
   - readability
   - standard
+published: true
 ---
 
 안녕하세요. 첫 포스팅을 올려보네요.
