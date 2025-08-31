@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="[fix] font 크기 변경&#10;&#10; - 16px -&gt; 13px">
+    <list default="true" id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="[fix] 프로필 이미지 변경">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/bio-photo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/bio-photo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2025-08-31-journal-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-08-31-journal-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2025-08-31-post-first-poting.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-08-31-post-first-poting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,7 @@
       <workItem from="1756307540038" duration="5769000" />
       <workItem from="1756560109562" duration="6452000" />
       <workItem from="1756566796521" duration="7009000" />
-      <workItem from="1756619239056" duration="2350000" />
+      <workItem from="1756619239056" duration="3644000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <option name="closed" value="true" />
@@ -379,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756621219267</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="[fix] 프로필 이미지 변경">
+      <option name="closed" value="true" />
+      <created>1756622601738</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1756622601738</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -417,6 +428,7 @@
     <MESSAGE value="[posting] 2025-08-31 journal-1 업로드" />
     <MESSAGE value="[fix] sidebar 폭 수정" />
     <MESSAGE value="[fix] font 크기 변경&#10;&#10; - 16px -&gt; 13px" />
-    <option name="LAST_COMMIT_MESSAGE" value="[fix] font 크기 변경&#10;&#10; - 16px -&gt; 13px" />
+    <MESSAGE value="[fix] 프로필 이미지 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] 프로필 이미지 변경" />
   </component>
 </project>

@@ -3,6 +3,7 @@ title: "First Posting"
 categories:
   - Blog
 published: true
+comments: true
 ---
 
 안녕하세요. 첫 포스팅을 올려보네요.
