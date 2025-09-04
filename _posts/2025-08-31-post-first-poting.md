@@ -5,6 +5,8 @@ categories:
 published: true
 comments: true
 ---
+첫 블로그 글을 쓰면서 나의 마음가짐.
+
 
 안녕하세요. 첫 포스팅을 올려보네요.
 
