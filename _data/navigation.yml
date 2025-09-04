@@ -1,9 +1,25 @@
 main:
+  - title: "Home"
+    url: /
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+
+docs:
+  - title: Deep Learning Journal
+    children:
+      - title: "ReID"
+        url: /categories/reid
+        category: ReID
+      - title: "Face Recognition"
+        url: /categories/face_recognition
+        category: face_recognition
+
+  - title: 일상 기록
+    children:
+      - title: "일상 이야기"
+        url: /categories/life_story
+        category: life_story

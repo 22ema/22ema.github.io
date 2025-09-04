@@ -1,7 +1,7 @@
 ---
 title: "First Posting"
 categories:
-  - Blog
+  - life_story
 published: true
 comments: true
 ---

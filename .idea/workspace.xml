@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="[fix] 프로필 이미지 변경">
+    <list default="true" id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="[post] 이미지 추가 및 연구 목적 수정">
+      <change afterPath="$PROJECT_DIR$/_pages/categories/face_recognition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/categories/life_story.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/categories/reid.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav_list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2025-08-31-journal-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-08-31-journal-1.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2025-08-31-post-first-poting.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-08-31-post-first-poting.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/minimal-mistakes/_base.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/han_yunsung/Code/22ema.github.io/assets/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/han_yunsung/Code/22ema.github.io/assets/images&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images" />
@@ -84,7 +88,10 @@
       <workItem from="1756307540038" duration="5769000" />
       <workItem from="1756560109562" duration="6452000" />
       <workItem from="1756566796521" duration="7009000" />
-      <workItem from="1756619239056" duration="3644000" />
+      <workItem from="1756619239056" duration="5872000" />
+      <workItem from="1756904161782" duration="1305000" />
+      <workItem from="1756905494420" duration="1793000" />
+      <workItem from="1756992794095" duration="2613000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <option name="closed" value="true" />
@@ -390,7 +397,47 @@
       <option name="project" value="LOCAL" />
       <updated>1756622601738</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="[fix] 댓글 기능 추가">
+      <option name="closed" value="true" />
+      <created>1756623870265</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1756623870265</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[post] 이미지 추가 테스트">
+      <option name="closed" value="true" />
+      <created>1756905540153</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1756905540154</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[post] 이미지 추가 테스트">
+      <option name="closed" value="true" />
+      <created>1756906135423</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1756906135423</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[post] 이미지 추가 테스트">
+      <option name="closed" value="true" />
+      <created>1756906668381</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1756906668381</updated>
+    </task>
+    <task id="LOCAL-00043" summary="[post] 이미지 추가 및 연구 목적 수정">
+      <option name="closed" value="true" />
+      <created>1756993599950</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1756993599950</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,6 +476,9 @@
     <MESSAGE value="[fix] sidebar 폭 수정" />
     <MESSAGE value="[fix] font 크기 변경&#10;&#10; - 16px -&gt; 13px" />
     <MESSAGE value="[fix] 프로필 이미지 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="[fix] 프로필 이미지 변경" />
+    <MESSAGE value="[fix] 댓글 기능 추가" />
+    <MESSAGE value="[post] 이미지 추가 테스트" />
+    <MESSAGE value="[post] 이미지 추가 및 연구 목적 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[post] 이미지 추가 및 연구 목적 수정" />
   </component>
 </project>
