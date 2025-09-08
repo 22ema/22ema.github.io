@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="[post] 이미지 추가 및 연구 목적 수정">
-      <change afterPath="$PROJECT_DIR$/_pages/categories/face_recognition.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/categories/life_story.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/categories/reid.md" afterDir="false" />
+    <list default="true" id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="[fix] 각 글에 대한 서두">
+      <change afterPath="$PROJECT_DIR$/_posts/2025-09-09-journal-2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2025-08-31-journal-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-08-31-journal-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2025-08-31-post-first-poting.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-08-31-post-first-poting.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +47,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -91,7 +85,9 @@
       <workItem from="1756619239056" duration="5872000" />
       <workItem from="1756904161782" duration="1305000" />
       <workItem from="1756905494420" duration="1793000" />
-      <workItem from="1756992794095" duration="2613000" />
+      <workItem from="1756992794095" duration="3056000" />
+      <workItem from="1757344080738" duration="673000" />
+      <workItem from="1757344767172" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <option name="closed" value="true" />
@@ -437,7 +433,23 @@
       <option name="project" value="LOCAL" />
       <updated>1756993599950</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="[fix] 목차 수정 및 about 페이지 삭제 (추후 포트폴리오 추가예정)">
+      <option name="closed" value="true" />
+      <created>1756995545016</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1756995545016</updated>
+    </task>
+    <task id="LOCAL-00045" summary="[fix] 각 글에 대한 서두">
+      <option name="closed" value="true" />
+      <created>1756995724408</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1756995724408</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +467,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test commit" />
     <MESSAGE value="[feat] css test" />
     <MESSAGE value="[feat] minima theme 적용" />
     <MESSAGE value="[feat] 프로필 및 footer 수정" />
@@ -479,6 +490,8 @@
     <MESSAGE value="[fix] 댓글 기능 추가" />
     <MESSAGE value="[post] 이미지 추가 테스트" />
     <MESSAGE value="[post] 이미지 추가 및 연구 목적 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="[post] 이미지 추가 및 연구 목적 수정" />
+    <MESSAGE value="[fix] 목차 수정 및 about 페이지 삭제 (추후 포트폴리오 추가예정)" />
+    <MESSAGE value="[fix] 각 글에 대한 서두" />
+    <option name="LAST_COMMIT_MESSAGE" value="[fix] 각 글에 대한 서두" />
   </component>
 </project>
