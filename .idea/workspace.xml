@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="[fix] 각 글에 대한 서두">
-      <change afterPath="$PROJECT_DIR$/_posts/2025-09-09-journal-2.md" afterDir="false" />
+    <list default="true" id="e90c18e9-0cee-44fc-aece-9c2e45aa9329" name="Changes" comment="[posting] Partial FC 논문 리뷰 일부 작성">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2025-09-09-journal-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2025-09-09-journal-2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,11 @@
       <workItem from="1756905494420" duration="1793000" />
       <workItem from="1756992794095" duration="3056000" />
       <workItem from="1757344080738" duration="673000" />
-      <workItem from="1757344767172" duration="244000" />
+      <workItem from="1757344767172" duration="897000" />
+      <workItem from="1757765337739" duration="599000" />
+      <workItem from="1758638217961" duration="598000" />
+      <workItem from="1764257786657" duration="80000" />
+      <workItem from="1767105433162" duration="4158000" />
     </task>
     <task id="LOCAL-00001" summary="Test commit">
       <option name="closed" value="true" />
@@ -449,7 +453,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756995724408</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="[posting] Partial FC 논문 리뷰 일부 작성">
+      <option name="closed" value="true" />
+      <created>1757345057402</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1757345057402</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[feat] css test" />
     <MESSAGE value="[feat] minima theme 적용" />
     <MESSAGE value="[feat] 프로필 및 footer 수정" />
     <MESSAGE value="[feat] 카테고리 및 자기소개 추가" />
@@ -492,6 +503,7 @@
     <MESSAGE value="[post] 이미지 추가 및 연구 목적 수정" />
     <MESSAGE value="[fix] 목차 수정 및 about 페이지 삭제 (추후 포트폴리오 추가예정)" />
     <MESSAGE value="[fix] 각 글에 대한 서두" />
-    <option name="LAST_COMMIT_MESSAGE" value="[fix] 각 글에 대한 서두" />
+    <MESSAGE value="[posting] Partial FC 논문 리뷰 일부 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="[posting] Partial FC 논문 리뷰 일부 작성" />
   </component>
 </project>
